@@ -1,0 +1,8 @@
+-menü változtatási opció
+
+-fő oldal:
+    -bemutatkozás
+
+-árulási oldal:
+    -tematikákkal:
+        -ünnepek/évszakok
