@@ -13,3 +13,4 @@ kategóriák
     -rádió gombbal vagy inkább jelölő négyzettel
         -ha valami aktív akkor csak azokat mutassa
         -ha semmi sem aktív, mindent mutat
+        -legegyszerűbb szerintem egy legördülő menü lenne majd, de majd még egyeztetek
