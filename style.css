@@ -615,8 +615,8 @@ img {vertical-align: middle; border: 7px solid black ;border-radius: 10px;}
     max-width: 900px;
     width: 95%;
     justify-content: center;
-    align-items: flex-start;
-    flex-wrap: wrap;
+    
+    
 }
 
 /* Kép a popupban */
@@ -628,6 +628,7 @@ img {vertical-align: middle; border: 7px solid black ;border-radius: 10px;}
 
 /* Szöveg / leírás a popupban */
 #popupContent #popupDisc {
+    margin-top: 10%;
     max-width: 50%;  /* Desktop: fél szélesség */
     background-color: rgb(244, 199, 212);
     font-weight: bold;

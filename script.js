@@ -122,7 +122,7 @@ document.body.addEventListener("click", (e) => {
         if (window.innerWidth < 768) {
             // mobil: csak szöveg jelenik meg
             content.style.display = "flex";
-            content.style.flexDirection = "column";
+            content.style.flexDirection = "row";
             content.style.alignItems = "center";
             content.appendChild(discDiv); // csak leírás
         } else {
